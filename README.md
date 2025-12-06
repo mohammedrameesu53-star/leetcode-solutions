@@ -13,4 +13,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0977-squares-of-a-sorted-array](https://github.com/mohammedrameesu53-star/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
+## String
+|  |
+| ------- |
+| [0058-length-of-last-word](https://github.com/mohammedrameesu53-star/leetcode-solutions/tree/master/0058-length-of-last-word) |
 <!---LeetCode Topics End-->
