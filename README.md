@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/mohammedrameesu53-star/leetcode-solutions/tree/master/0258-add-digits) |
+| [2235-add-two-integers](https://github.com/mohammedrameesu53-star/leetcode-solutions/tree/master/2235-add-two-integers) |
 ## Simulation
 |  |
 | ------- |
