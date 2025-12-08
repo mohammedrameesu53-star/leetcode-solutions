@@ -15,7 +15,5 @@ for(let i =0; i<a.length; i++){
     b += Number(a[i])
 }
 num = b
-
-}
-   
+}  
 };
