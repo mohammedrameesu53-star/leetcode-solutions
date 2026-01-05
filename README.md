@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/mohammedrameesu53-star/leetcode-solutions/tree/master/0058-length-of-last-word) |
+| [0709-to-lower-case](https://github.com/mohammedrameesu53-star/leetcode-solutions/tree/master/0709-to-lower-case) |
 | [2788-split-strings-by-separator](https://github.com/mohammedrameesu53-star/leetcode-solutions/tree/master/2788-split-strings-by-separator) |
 | [2942-find-words-containing-character](https://github.com/mohammedrameesu53-star/leetcode-solutions/tree/master/2942-find-words-containing-character) |
 ## Math
