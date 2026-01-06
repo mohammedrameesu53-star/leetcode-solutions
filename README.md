@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/mohammedrameesu53-star/leetcode-solutions/tree/master/0058-length-of-last-word) |
+| [0415-add-strings](https://github.com/mohammedrameesu53-star/leetcode-solutions/tree/master/0415-add-strings) |
 | [0709-to-lower-case](https://github.com/mohammedrameesu53-star/leetcode-solutions/tree/master/0709-to-lower-case) |
 | [2788-split-strings-by-separator](https://github.com/mohammedrameesu53-star/leetcode-solutions/tree/master/2788-split-strings-by-separator) |
 | [2942-find-words-containing-character](https://github.com/mohammedrameesu53-star/leetcode-solutions/tree/master/2942-find-words-containing-character) |
@@ -31,11 +32,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/mohammedrameesu53-star/leetcode-solutions/tree/master/0258-add-digits) |
+| [0415-add-strings](https://github.com/mohammedrameesu53-star/leetcode-solutions/tree/master/0415-add-strings) |
 | [2235-add-two-integers](https://github.com/mohammedrameesu53-star/leetcode-solutions/tree/master/2235-add-two-integers) |
 ## Simulation
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/mohammedrameesu53-star/leetcode-solutions/tree/master/0258-add-digits) |
+| [0415-add-strings](https://github.com/mohammedrameesu53-star/leetcode-solutions/tree/master/0415-add-strings) |
 ## Number Theory
 |  |
 | ------- |
