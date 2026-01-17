@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/mohammedrameesu53-star/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/mohammedrameesu53-star/leetcode-solutions/tree/master/0415-add-strings) |
 | [0507-perfect-number](https://github.com/mohammedrameesu53-star/leetcode-solutions/tree/master/0507-perfect-number) |
+| [1952-three-divisors](https://github.com/mohammedrameesu53-star/leetcode-solutions/tree/master/1952-three-divisors) |
 | [2235-add-two-integers](https://github.com/mohammedrameesu53-star/leetcode-solutions/tree/master/2235-add-two-integers) |
 ## Simulation
 |  |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/mohammedrameesu53-star/leetcode-solutions/tree/master/0258-add-digits) |
+| [1952-three-divisors](https://github.com/mohammedrameesu53-star/leetcode-solutions/tree/master/1952-three-divisors) |
 ## Binary Search
 |  |
 | ------- |
@@ -89,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/mohammedrameesu53-star/leetcode-solutions/tree/master/0217-contains-duplicate) |
+## Enumeration
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/mohammedrameesu53-star/leetcode-solutions/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->
