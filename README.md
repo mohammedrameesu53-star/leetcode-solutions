@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/mohammedrameesu53-star/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/mohammedrameesu53-star/leetcode-solutions/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2109-adding-spaces-to-a-string](https://github.com/mohammedrameesu53-star/leetcode-solutions/tree/master/2109-adding-spaces-to-a-string) |
+| [2553-separate-the-digits-in-an-array](https://github.com/mohammedrameesu53-star/leetcode-solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2788-split-strings-by-separator](https://github.com/mohammedrameesu53-star/leetcode-solutions/tree/master/2788-split-strings-by-separator) |
 | [2942-find-words-containing-character](https://github.com/mohammedrameesu53-star/leetcode-solutions/tree/master/2942-find-words-containing-character) |
 ## Two Pointers
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/mohammedrameesu53-star/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/mohammedrameesu53-star/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/mohammedrameesu53-star/leetcode-solutions/tree/master/2109-adding-spaces-to-a-string) |
+| [2553-separate-the-digits-in-an-array](https://github.com/mohammedrameesu53-star/leetcode-solutions/tree/master/2553-separate-the-digits-in-an-array) |
 ## Number Theory
 |  |
 | ------- |
