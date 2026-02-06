@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/mohammedrameesu53-star/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/mohammedrameesu53-star/leetcode-solutions/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2109-adding-spaces-to-a-string](https://github.com/mohammedrameesu53-star/leetcode-solutions/tree/master/2109-adding-spaces-to-a-string) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/mohammedrameesu53-star/leetcode-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/mohammedrameesu53-star/leetcode-solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2788-split-strings-by-separator](https://github.com/mohammedrameesu53-star/leetcode-solutions/tree/master/2788-split-strings-by-separator) |
 | [2942-find-words-containing-character](https://github.com/mohammedrameesu53-star/leetcode-solutions/tree/master/2942-find-words-containing-character) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/mohammedrameesu53-star/leetcode-solutions/tree/master/0507-perfect-number) |
 | [1952-three-divisors](https://github.com/mohammedrameesu53-star/leetcode-solutions/tree/master/1952-three-divisors) |
 | [2235-add-two-integers](https://github.com/mohammedrameesu53-star/leetcode-solutions/tree/master/2235-add-two-integers) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/mohammedrameesu53-star/leetcode-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/mohammedrameesu53-star/leetcode-solutions/tree/master/2652-sum-multiples) |
 ## Simulation
 |  |
