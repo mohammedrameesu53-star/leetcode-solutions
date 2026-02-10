@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-separate-the-digits-in-an-array](https://github.com/mohammedrameesu53-star/leetcode-solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2788-split-strings-by-separator](https://github.com/mohammedrameesu53-star/leetcode-solutions/tree/master/2788-split-strings-by-separator) |
 | [2942-find-words-containing-character](https://github.com/mohammedrameesu53-star/leetcode-solutions/tree/master/2942-find-words-containing-character) |
+| [3668-restore-finishing-order](https://github.com/mohammedrameesu53-star/leetcode-solutions/tree/master/3668-restore-finishing-order) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/mohammedrameesu53-star/leetcode-solutions/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 ## Two Pointers
 |  |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/mohammedrameesu53-star/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1122-relative-sort-array](https://github.com/mohammedrameesu53-star/leetcode-solutions/tree/master/1122-relative-sort-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/mohammedrameesu53-star/leetcode-solutions/tree/master/2085-count-common-words-with-one-occurrence) |
+| [3668-restore-finishing-order](https://github.com/mohammedrameesu53-star/leetcode-solutions/tree/master/3668-restore-finishing-order) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/mohammedrameesu53-star/leetcode-solutions/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 ## Enumeration
 |  |
