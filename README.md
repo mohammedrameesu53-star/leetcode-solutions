@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/mohammedrameesu53-star/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/mohammedrameesu53-star/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1122-relative-sort-array](https://github.com/mohammedrameesu53-star/leetcode-solutions/tree/master/1122-relative-sort-array) |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/mohammedrameesu53-star/leetcode-solutions/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1480-running-sum-of-1d-array](https://github.com/mohammedrameesu53-star/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/mohammedrameesu53-star/leetcode-solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/mohammedrameesu53-star/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/mohammedrameesu53-star/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/mohammedrameesu53-star/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1122-relative-sort-array](https://github.com/mohammedrameesu53-star/leetcode-solutions/tree/master/1122-relative-sort-array) |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/mohammedrameesu53-star/leetcode-solutions/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 ## String
 |  |
 | ------- |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/mohammedrameesu53-star/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mohammedrameesu53-star/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1122-relative-sort-array](https://github.com/mohammedrameesu53-star/leetcode-solutions/tree/master/1122-relative-sort-array) |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/mohammedrameesu53-star/leetcode-solutions/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/mohammedrameesu53-star/leetcode-solutions/tree/master/2085-count-common-words-with-one-occurrence) |
 | [3668-restore-finishing-order](https://github.com/mohammedrameesu53-star/leetcode-solutions/tree/master/3668-restore-finishing-order) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/mohammedrameesu53-star/leetcode-solutions/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
