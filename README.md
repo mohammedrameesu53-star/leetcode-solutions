@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/mohammedrameesu53-star/leetcode-solutions/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/mohammedrameesu53-star/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/mohammedrameesu53-star/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/mohammedrameesu53-star/leetcode-solutions/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/mohammedrameesu53-star/leetcode-solutions/tree/master/0326-power-of-three) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/mohammedrameesu53-star/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0069-sqrtx](https://github.com/mohammedrameesu53-star/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mohammedrameesu53-star/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/mohammedrameesu53-star/leetcode-solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0287-find-the-duplicate-number](https://github.com/mohammedrameesu53-star/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
