@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/mohammedrameesu53-star/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/mohammedrameesu53-star/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1122-relative-sort-array](https://github.com/mohammedrameesu53-star/leetcode-solutions/tree/master/1122-relative-sort-array) |
+| [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/mohammedrameesu53-star/leetcode-solutions/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/mohammedrameesu53-star/leetcode-solutions/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1480-running-sum-of-1d-array](https://github.com/mohammedrameesu53-star/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/mohammedrameesu53-star/leetcode-solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
