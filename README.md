@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/mohammedrameesu53-star/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1122-relative-sort-array](https://github.com/mohammedrameesu53-star/leetcode-solutions/tree/master/1122-relative-sort-array) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/mohammedrameesu53-star/leetcode-solutions/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/mohammedrameesu53-star/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/mohammedrameesu53-star/leetcode-solutions/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1480-running-sum-of-1d-array](https://github.com/mohammedrameesu53-star/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/mohammedrameesu53-star/leetcode-solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/mohammedrameesu53-star/leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0905-sort-array-by-parity](https://github.com/mohammedrameesu53-star/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/mohammedrameesu53-star/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/mohammedrameesu53-star/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2000-reverse-prefix-of-word](https://github.com/mohammedrameesu53-star/leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2109-adding-spaces-to-a-string](https://github.com/mohammedrameesu53-star/leetcode-solutions/tree/master/2109-adding-spaces-to-a-string) |
 ## Sorting
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/mohammedrameesu53-star/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/mohammedrameesu53-star/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1122-relative-sort-array](https://github.com/mohammedrameesu53-star/leetcode-solutions/tree/master/1122-relative-sort-array) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/mohammedrameesu53-star/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/mohammedrameesu53-star/leetcode-solutions/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 ## String
 |  |
@@ -124,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/mohammedrameesu53-star/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/mohammedrameesu53-star/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mohammedrameesu53-star/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/mohammedrameesu53-star/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -152,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/mohammedrameesu53-star/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mohammedrameesu53-star/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1122-relative-sort-array](https://github.com/mohammedrameesu53-star/leetcode-solutions/tree/master/1122-relative-sort-array) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/mohammedrameesu53-star/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/mohammedrameesu53-star/leetcode-solutions/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/mohammedrameesu53-star/leetcode-solutions/tree/master/2085-count-common-words-with-one-occurrence) |
 | [3668-restore-finishing-order](https://github.com/mohammedrameesu53-star/leetcode-solutions/tree/master/3668-restore-finishing-order) |
