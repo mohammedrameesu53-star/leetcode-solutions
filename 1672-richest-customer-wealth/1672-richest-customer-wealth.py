@@ -2,13 +2,12 @@ class Solution(object):
     def maximumWealth(self, accounts):
         arr=[]
         for i in accounts:
-            a=0
+            c = 0
             for j in i:
-                a += j
-            arr.append(a)
-
-        sortedArr = sorted(arr)
-        return sortedArr[-1]        
+                c += j
+            arr.append(c)
+            
+        return max(arr)      
                 
 
 
