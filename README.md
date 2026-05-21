@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/mohammedrameesu53-star/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2000-reverse-prefix-of-word](https://github.com/mohammedrameesu53-star/leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2109-adding-spaces-to-a-string](https://github.com/mohammedrameesu53-star/leetcode-solutions/tree/master/2109-adding-spaces-to-a-string) |
+| [2396-strictly-palindromic-number](https://github.com/mohammedrameesu53-star/leetcode-solutions/tree/master/2396-strictly-palindromic-number) |
 ## Sorting
 |  |
 | ------- |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1952-three-divisors](https://github.com/mohammedrameesu53-star/leetcode-solutions/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mohammedrameesu53-star/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/mohammedrameesu53-star/leetcode-solutions/tree/master/2235-add-two-integers) |
+| [2396-strictly-palindromic-number](https://github.com/mohammedrameesu53-star/leetcode-solutions/tree/master/2396-strictly-palindromic-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/mohammedrameesu53-star/leetcode-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/mohammedrameesu53-star/leetcode-solutions/tree/master/2652-sum-multiples) |
 ## Simulation
@@ -195,4 +197,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2000-reverse-prefix-of-word](https://github.com/mohammedrameesu53-star/leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/mohammedrameesu53-star/leetcode-solutions/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
