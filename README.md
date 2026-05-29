@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-separate-the-digits-in-an-array](https://github.com/mohammedrameesu53-star/leetcode-solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2788-split-strings-by-separator](https://github.com/mohammedrameesu53-star/leetcode-solutions/tree/master/2788-split-strings-by-separator) |
 | [2942-find-words-containing-character](https://github.com/mohammedrameesu53-star/leetcode-solutions/tree/master/2942-find-words-containing-character) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/mohammedrameesu53-star/leetcode-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3668-restore-finishing-order](https://github.com/mohammedrameesu53-star/leetcode-solutions/tree/master/3668-restore-finishing-order) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/mohammedrameesu53-star/leetcode-solutions/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 ## Two Pointers
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2396-strictly-palindromic-number](https://github.com/mohammedrameesu53-star/leetcode-solutions/tree/master/2396-strictly-palindromic-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/mohammedrameesu53-star/leetcode-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/mohammedrameesu53-star/leetcode-solutions/tree/master/2652-sum-multiples) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/mohammedrameesu53-star/leetcode-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3894-traffic-signal-color](https://github.com/mohammedrameesu53-star/leetcode-solutions/tree/master/3894-traffic-signal-color) |
 ## Simulation
 |  |
