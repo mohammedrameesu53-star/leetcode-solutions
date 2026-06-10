@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2085-count-common-words-with-one-occurrence](https://github.com/mohammedrameesu53-star/leetcode-solutions/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/mohammedrameesu53-star/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/mohammedrameesu53-star/leetcode-solutions/tree/master/2109-adding-spaces-to-a-string) |
+| [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/mohammedrameesu53-star/leetcode-solutions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/mohammedrameesu53-star/leetcode-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/mohammedrameesu53-star/leetcode-solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2788-split-strings-by-separator](https://github.com/mohammedrameesu53-star/leetcode-solutions/tree/master/2788-split-strings-by-separator) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mohammedrameesu53-star/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/mohammedrameesu53-star/leetcode-solutions/tree/master/2235-add-two-integers) |
 | [2396-strictly-palindromic-number](https://github.com/mohammedrameesu53-star/leetcode-solutions/tree/master/2396-strictly-palindromic-number) |
+| [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/mohammedrameesu53-star/leetcode-solutions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/mohammedrameesu53-star/leetcode-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/mohammedrameesu53-star/leetcode-solutions/tree/master/2652-sum-multiples) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/mohammedrameesu53-star/leetcode-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
